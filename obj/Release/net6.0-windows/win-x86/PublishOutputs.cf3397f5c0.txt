@@ -1,0 +1,7 @@
+E:\Project_Auto_Sign\Signage Auto Work.pdb
+E:\Project_Auto_Sign\D3DCompiler_47_cor3.dll
+E:\Project_Auto_Sign\PenImc_cor3.dll
+E:\Project_Auto_Sign\PresentationNative_cor3.dll
+E:\Project_Auto_Sign\vcruntime140_cor3.dll
+E:\Project_Auto_Sign\wpfgfx_cor3.dll
+E:\Project_Auto_Sign\Signage Auto Work.exe

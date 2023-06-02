@@ -1,0 +1,55 @@
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Debug\net6.0-windows\Signage Auto Work.exe
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Debug\net6.0-windows\Signage Auto Work.deps.json
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Debug\net6.0-windows\Signage Auto Work.runtimeconfig.json
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Debug\net6.0-windows\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Debug\net6.0-windows\Signage Auto Work.pdb
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage_Auto_Work.Form1.resources
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfo.cs
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\refint\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.pdb
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage Auto Work.genruntimeconfig.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\ref\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Debug\net6.0-windows\Signage_Auto_Work.Properties.Resources.resources
+D:\bin\Debug\net6.0-windows\Signage Auto Work.exe
+D:\bin\Debug\net6.0-windows\Signage Auto Work.deps.json
+D:\bin\Debug\net6.0-windows\Signage Auto Work.runtimeconfig.json
+D:\bin\Debug\net6.0-windows\Signage Auto Work.dll
+D:\bin\Debug\net6.0-windows\Signage Auto Work.pdb
+D:\obj\Debug\net6.0-windows\Signage Auto Work.csproj.AssemblyReference.cache
+D:\obj\Debug\net6.0-windows\Signage_Auto_Work.Form1.resources
+D:\obj\Debug\net6.0-windows\Signage_Auto_Work.Properties.Resources.resources
+D:\obj\Debug\net6.0-windows\Signage Auto Work.csproj.GenerateResource.cache
+D:\obj\Debug\net6.0-windows\Signage Auto Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfoInputs.cache
+D:\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfo.cs
+D:\obj\Debug\net6.0-windows\Signage Auto Work.csproj.CoreCompileInputs.cache
+D:\obj\Debug\net6.0-windows\Signage Auto Work.dll
+D:\obj\Debug\net6.0-windows\refint\Signage Auto Work.dll
+D:\obj\Debug\net6.0-windows\Signage Auto Work.pdb
+D:\obj\Debug\net6.0-windows\Signage Auto Work.genruntimeconfig.cache
+D:\obj\Debug\net6.0-windows\ref\Signage Auto Work.dll
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\Signage Auto Work.exe
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\Signage Auto Work.deps.json
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\Signage Auto Work.runtimeconfig.json
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\Signage Auto Work.dll
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\Signage Auto Work.pdb
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.csproj.AssemblyReference.cache
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage_Auto_Work.Form1.resources
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage_Auto_Work.Properties.Resources.resources
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.csproj.GenerateResource.cache
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfoInputs.cache
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.AssemblyInfo.cs
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.csproj.CoreCompileInputs.cache
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.dll
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\refint\Signage Auto Work.dll
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.pdb
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\Signage Auto Work.genruntimeconfig.cache
+C:\Users\dssinstalls\Desktop\TEST_CODE\obj\Debug\net6.0-windows\ref\Signage Auto Work.dll
+C:\Users\dssinstalls\Desktop\TEST_CODE\bin\Debug\net6.0-windows\its.ico

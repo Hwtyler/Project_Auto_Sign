@@ -1,0 +1,1038 @@
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Signage Auto Work.exe
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Signage Auto Work.deps.json
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Signage Auto Work.runtimeconfig.json
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Signage Auto Work.pdb
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.CSharp.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Core.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.AppContext.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Buffers.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Collections.Concurrent.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Collections.Immutable.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Collections.NonGeneric.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Collections.Specialized.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Collections.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Annotations.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.DataAnnotations.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ComponentModel.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Configuration.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Console.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Core.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Data.Common.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Data.DataSetExtensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Data.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Contracts.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Debug.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Process.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.StackTrace.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tools.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TraceSource.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tracing.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Drawing.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Dynamic.Runtime.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Formats.Asn1.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Globalization.Calendars.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Globalization.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Globalization.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Brotli.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Compression.FileSystem.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Compression.ZipFile.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Compression.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.AccessControl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Watcher.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.IsolatedStorage.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.MemoryMappedFiles.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.AccessControl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Linq.Expressions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Linq.Parallel.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Linq.Queryable.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Linq.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Memory.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Http.Json.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Http.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.HttpListener.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Mail.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.NameResolution.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.NetworkInformation.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Ping.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Quic.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Requests.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Security.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.ServicePoint.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.Sockets.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.WebClient.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.WebHeaderCollection.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.WebProxy.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.Client.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Net.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Numerics.Vectors.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Numerics.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ObjectModel.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Private.CoreLib.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Private.DataContractSerialization.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Private.Uri.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Private.Xml.Linq.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Private.Xml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.DispatchProxy.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.Lightweight.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Metadata.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.TypeExtensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Reflection.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Resources.Reader.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Resources.ResourceManager.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Resources.Writer.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Handles.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Intrinsics.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Loader.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Numerics.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Formatters.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Json.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Xml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Runtime.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.AccessControl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Claims.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Algorithms.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Cng.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Csp.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Encoding.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Principal.Windows.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Principal.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.SecureString.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ServiceModel.Web.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ServiceProcess.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.CodePages.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.Encodings.Web.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.Json.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Text.RegularExpressions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Channels.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Overlapped.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Dataflow.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Parallel.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Thread.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.ThreadPool.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.Timer.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Transactions.Local.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Transactions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.ValueTuple.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Web.HttpUtility.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Web.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.Linq.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.ReaderWriter.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.Serialization.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.XDocument.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.XDocument.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.XmlDocument.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.XmlSerializer.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\mscorlib.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\netstandard.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Accessibility.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\DirectWriteForwarder.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Forms.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.SystemEvents.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationCore.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemCore.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemData.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemDrawing.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXmlLinq.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero2.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.AeroLite.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.Classic.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.Luna.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.Royale.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationFramework.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationUI.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ReachFramework.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.CodeDom.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Configuration.ConfigurationManager.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Design.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.DirectoryServices.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Drawing.Common.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Drawing.Design.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Drawing.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Packaging.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Printing.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Resources.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Pkcs.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Xml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Security.Permissions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Threading.AccessControl.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Controls.Ribbon.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Extensions.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.Editors.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Primitives.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Input.Manipulations.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Windows.Presentation.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.Xaml.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\UIAutomationClient.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\UIAutomationClientSideProviders.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\UIAutomationProvider.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\UIAutomationTypes.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\WindowsBase.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\WindowsFormsIntegration.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Native.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-2-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-2-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l2-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-string-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-core-util-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\clretwrc.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\clrjit.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\coreclr.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\createdump.exe
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\dbgshim.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\hostfxr.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\hostpolicy.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\mscordaccore.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\mscordaccore_x86_x86_6.0.1523.11507.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\mscordbi.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\mscorrc.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\msquic.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ucrtbase.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\D3DCompiler_47_cor3.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PenImc_cor3.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\PresentationNative_cor3.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\vcruntime140_cor3.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\wpfgfx_cor3.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\cs\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\de\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\es\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\fr\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\it\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ja\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ko\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pl\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\ru\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\tr\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationCore.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationUI.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\ReachFramework.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Xaml.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClient.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClientSideProviders.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationProvider.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationTypes.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsBase.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsFormsIntegration.resources.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.AssemblyReference.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage_Auto_Work.Form1.resources
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage_Auto_Work.Properties.Resources.resources
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.AssemblyInfo.cs
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.CopyComplete
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\refint\Signage Auto Work.dll
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.pdb
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\Signage Auto Work.genruntimeconfig.cache
+C:\Users\Test\source\repos\Signage Auto Work\Signage Auto Work\obj\Release\net6.0-windows\win-x86\ref\Signage Auto Work.dll
+D:\bin\Release\net6.0-windows\win-x86\Signage Auto Work.exe
+D:\bin\Release\net6.0-windows\win-x86\Signage Auto Work.deps.json
+D:\bin\Release\net6.0-windows\win-x86\Signage Auto Work.runtimeconfig.json
+D:\bin\Release\net6.0-windows\win-x86\Signage Auto Work.dll
+D:\bin\Release\net6.0-windows\win-x86\Signage Auto Work.pdb
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.CSharp.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Core.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.dll
+D:\bin\Release\net6.0-windows\win-x86\System.AppContext.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Buffers.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Collections.Concurrent.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Collections.Immutable.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Collections.NonGeneric.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Collections.Specialized.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Collections.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Annotations.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.TypeConverter.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ComponentModel.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Configuration.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Console.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Core.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Data.Common.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Data.DataSetExtensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Data.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Contracts.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Debug.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Process.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.StackTrace.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tools.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.TraceSource.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.Tracing.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Drawing.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Dynamic.Runtime.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Formats.Asn1.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Globalization.Calendars.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Globalization.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Globalization.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Brotli.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Compression.FileSystem.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Compression.ZipFile.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Compression.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.Watcher.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.FileSystem.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.IsolatedStorage.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.MemoryMappedFiles.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.AccessControl.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Pipes.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Linq.Expressions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Linq.Parallel.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Linq.Queryable.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Linq.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Memory.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Http.Json.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Http.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.HttpListener.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Mail.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.NameResolution.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.NetworkInformation.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Ping.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Quic.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Requests.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Security.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.ServicePoint.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.Sockets.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.WebClient.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.WebHeaderCollection.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.WebProxy.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.Client.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.WebSockets.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Net.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Numerics.Vectors.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Numerics.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ObjectModel.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Private.CoreLib.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Private.DataContractSerialization.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Private.Uri.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Private.Xml.Linq.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Private.Xml.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.DispatchProxy.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Emit.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Metadata.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.TypeExtensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Reflection.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Resources.Reader.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Resources.ResourceManager.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Resources.Writer.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Handles.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.InteropServices.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Intrinsics.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Loader.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Numerics.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Json.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.Xml.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.Serialization.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Runtime.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.AccessControl.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Claims.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Cng.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Csp.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Encoding.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Principal.Windows.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Principal.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.SecureString.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ServiceModel.Web.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ServiceProcess.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.CodePages.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.Encoding.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.Encodings.Web.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.Json.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Text.RegularExpressions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Channels.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Overlapped.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.Parallel.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Tasks.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Thread.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.ThreadPool.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.Timer.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Transactions.Local.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Transactions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.ValueTuple.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Web.HttpUtility.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Web.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.Linq.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.ReaderWriter.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.Serialization.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.XDocument.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.XDocument.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.XPath.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.XmlDocument.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.XmlSerializer.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xml.dll
+D:\bin\Release\net6.0-windows\win-x86\System.dll
+D:\bin\Release\net6.0-windows\win-x86\mscorlib.dll
+D:\bin\Release\net6.0-windows\win-x86\netstandard.dll
+D:\bin\Release\net6.0-windows\win-x86\Accessibility.dll
+D:\bin\Release\net6.0-windows\win-x86\DirectWriteForwarder.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.Forms.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.VisualBasic.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.Registry.AccessControl.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.Win32.SystemEvents.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationCore.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemCore.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemData.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemDrawing.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXml.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework-SystemXmlLinq.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.Aero2.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.AeroLite.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.Classic.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.Luna.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.Royale.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationFramework.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationUI.dll
+D:\bin\Release\net6.0-windows\win-x86\ReachFramework.dll
+D:\bin\Release\net6.0-windows\win-x86\System.CodeDom.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Configuration.ConfigurationManager.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Design.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.Messages.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.EventLog.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Diagnostics.PerformanceCounter.dll
+D:\bin\Release\net6.0-windows\win-x86\System.DirectoryServices.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Drawing.Common.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Drawing.Design.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Drawing.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Packaging.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Printing.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Resources.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Pkcs.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Cryptography.Xml.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Security.Permissions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Threading.AccessControl.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Controls.Ribbon.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Extensions.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.Editors.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Design.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.Primitives.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Forms.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Input.Manipulations.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Windows.Presentation.dll
+D:\bin\Release\net6.0-windows\win-x86\System.Xaml.dll
+D:\bin\Release\net6.0-windows\win-x86\UIAutomationClient.dll
+D:\bin\Release\net6.0-windows\win-x86\UIAutomationClientSideProviders.dll
+D:\bin\Release\net6.0-windows\win-x86\UIAutomationProvider.dll
+D:\bin\Release\net6.0-windows\win-x86\UIAutomationTypes.dll
+D:\bin\Release\net6.0-windows\win-x86\WindowsBase.dll
+D:\bin\Release\net6.0-windows\win-x86\WindowsFormsIntegration.dll
+D:\bin\Release\net6.0-windows\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\bin\Release\net6.0-windows\win-x86\System.IO.Compression.Native.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-console-l1-2-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-debug-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l1-2-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-file-l2-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-handle-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-heap-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-localization-l1-2-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-memory-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-profile-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-string-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-synch-l1-2-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-core-util-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-math-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-private-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-process-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-string-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-time-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+D:\bin\Release\net6.0-windows\win-x86\clretwrc.dll
+D:\bin\Release\net6.0-windows\win-x86\clrjit.dll
+D:\bin\Release\net6.0-windows\win-x86\coreclr.dll
+D:\bin\Release\net6.0-windows\win-x86\createdump.exe
+D:\bin\Release\net6.0-windows\win-x86\dbgshim.dll
+D:\bin\Release\net6.0-windows\win-x86\hostfxr.dll
+D:\bin\Release\net6.0-windows\win-x86\hostpolicy.dll
+D:\bin\Release\net6.0-windows\win-x86\mscordaccore.dll
+D:\bin\Release\net6.0-windows\win-x86\mscordaccore_x86_x86_6.0.1623.17311.dll
+D:\bin\Release\net6.0-windows\win-x86\mscordbi.dll
+D:\bin\Release\net6.0-windows\win-x86\mscorrc.dll
+D:\bin\Release\net6.0-windows\win-x86\msquic.dll
+D:\bin\Release\net6.0-windows\win-x86\ucrtbase.dll
+D:\bin\Release\net6.0-windows\win-x86\D3DCompiler_47_cor3.dll
+D:\bin\Release\net6.0-windows\win-x86\PenImc_cor3.dll
+D:\bin\Release\net6.0-windows\win-x86\PresentationNative_cor3.dll
+D:\bin\Release\net6.0-windows\win-x86\vcruntime140_cor3.dll
+D:\bin\Release\net6.0-windows\win-x86\wpfgfx_cor3.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\cs\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\de\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\es\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\fr\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\it\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ja\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ko\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pl\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\pt-BR\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\ru\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\tr\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hans\WindowsFormsIntegration.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationCore.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\PresentationUI.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\ReachFramework.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Controls.Ribbon.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Design.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Forms.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Windows.Input.Manipulations.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\System.Xaml.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClient.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationClientSideProviders.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationProvider.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\UIAutomationTypes.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsBase.resources.dll
+D:\bin\Release\net6.0-windows\win-x86\zh-Hant\WindowsFormsIntegration.resources.dll
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.AssemblyReference.cache
+D:\obj\Release\net6.0-windows\win-x86\Signage_Auto_Work.Form1.resources
+D:\obj\Release\net6.0-windows\win-x86\Signage_Auto_Work.Properties.Resources.resources
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.GenerateResource.cache
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.AssemblyInfoInputs.cache
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.AssemblyInfo.cs
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.CoreCompileInputs.cache
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.csproj.CopyComplete
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.dll
+D:\obj\Release\net6.0-windows\win-x86\refint\Signage Auto Work.dll
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.pdb
+D:\obj\Release\net6.0-windows\win-x86\Signage Auto Work.genruntimeconfig.cache
+D:\obj\Release\net6.0-windows\win-x86\ref\Signage Auto Work.dll

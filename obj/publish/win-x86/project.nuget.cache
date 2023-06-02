@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORZk2O9/v4mkt4Uqjdr2he1I88Ihx/G+dr7+67EMdAJHs8GM3Ne7d2ajEVYvb0HND06Ci55fL/DGyiviB4gylA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dssinstalls\\Desktop\\TEST_CODE\\Signage Auto Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dssinstalls\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\dssinstalls\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\dssinstalls\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

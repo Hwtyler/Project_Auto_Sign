@@ -1,0 +1,7 @@
+C:\Users\Test\Desktop\CurrentBuilds\Signage Auto Work.pdb
+C:\Users\Test\Desktop\CurrentBuilds\D3DCompiler_47_cor3.dll
+C:\Users\Test\Desktop\CurrentBuilds\PenImc_cor3.dll
+C:\Users\Test\Desktop\CurrentBuilds\PresentationNative_cor3.dll
+C:\Users\Test\Desktop\CurrentBuilds\vcruntime140_cor3.dll
+C:\Users\Test\Desktop\CurrentBuilds\wpfgfx_cor3.dll
+C:\Users\Test\Desktop\CurrentBuilds\Signage Auto Work.exe

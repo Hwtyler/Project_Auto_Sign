@@ -1,0 +1,5 @@
+E:\Project_Auto_Sign\Signage Auto Work.exe
+E:\Project_Auto_Sign\Signage Auto Work.dll
+E:\Project_Auto_Sign\Signage Auto Work.deps.json
+E:\Project_Auto_Sign\Signage Auto Work.runtimeconfig.json
+E:\Project_Auto_Sign\Signage Auto Work.pdb
